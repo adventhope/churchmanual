@@ -1,4 +1,6 @@
-Welcome to the Church Manual wiki! This site was set up as living documentation of the organization, policies, and ministry positions at Church of the Advent Hope.  Click on the links below, or select your desired page from dropdown list to the right.
+# Church of the Advent Hope — Church Manual
+
+Welcome to the Church Manual! This document is living documentation of the organization, policies, and ministry positions at Church of the Advent Hope. Click on the links below to navigate to each section.
 
 ## Church Ministry Positions:
 * [[Adult Sabbath School Teacher]]
@@ -6,15 +8,15 @@ Welcome to the Church Manual wiki! This site was set up as living documentation 
 * [[Children's Sabbath School Leader]]
 * [[Children's Sabbath School Teacher]]
 * [[Collegiate Ministries Coordinator]]
-* [[Connect Team Leader]]
 * [[Communication Representative]]
 * [[Community Services Director]]
 * [[Community Services Volunteer]]
+* [[Connect Team Leader]]
 * [[Deacon and Deaconess]]
 * [[Elder]]
 * [[Family Ministries Coordinator]]
-* [[Hospitality Team]]
 * [[Health Ministries Leader]]
+* [[Hospitality Team]]
 * [[Men's Ministry Director]]
 * [[Music Ministry]]
 * [[Religious Liberty Leader]]
