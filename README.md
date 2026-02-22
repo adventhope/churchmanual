@@ -36,3 +36,7 @@ Welcome to the Church Manual! This document is living documentation of the organ
 
 ## Church History:
 * [[Advent Hope Church History]]
+
+
+## Strategic Documents:
+* [[Advent Hope Playbook 2026|playbook-2026.md]]
